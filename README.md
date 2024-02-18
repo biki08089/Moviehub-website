@@ -1,4 +1,4 @@
-<h3>My learniing</h3>
+<h3>My learning</h3>
 
 <h1>Moviehub</h1>
 
