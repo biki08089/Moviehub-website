@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* #overflow::-webkit-scrollbar {
+  display: none;
+}*/
+
+.active {
+  background-color: #1d2533;
+  padding: 2px 12px 5px 12px;
+  border-radius: 5px;
+} 
+
+/* @media screen and (min-width: 330px) and (max-width: 720px) {
+ #mainOverflow{
+  height: 100%;
+ }
+
+  nav {
+    padding-top: 1rem;
+    flex-wrap: wrap;
+    
+  }
+  #nav-box1 {
+    padding-left: 0px;
+    font-size: 1.3rem;
+    width: 7rem;
+  }
+
+  #nav-box1 img {
+    width: 28px;
+    height: 31px;
+  }
+
+  #nav-box2 {
+    order: 3;
+   
+    width: 100%;
+    z-index: 3;
+  }
+
+  #nav-box2 ul {
+    gap: 71px;
+  }
+
+  #nav-box3 {
+    width: 11rem;
+    order: 2;
+    margin-left:19879px ;
+  }
+
+  #nav-box3 .child-button1 {
+    font-size: 14px;
+    width: 4rem;
+    padding: 7px;
+  }
+
+  #nav-box3 .child-button2 {
+    width: 4rem;
+    font-size: 13px;
+  }
+
+  #parent-div {
+    flex-direction: column;
+    width: 85vw;
+  }
+  #parent-div #child1 {
+    padding-left: 0;
+    width: 100%;
+
+  }
+  #parent-div #child1 h1{
+    font-size: 1.7rem;
+  }
+
+  #parent-div #child1 p{
+    font-size: 1rem;
+  }
+
+  #parent-div #child2{
+    width: 100%;
+    margin-top: 17px;
+  }
+  #parent-div #child2 img{
+    width: 20rem;
+  }
+  #parent-div #child2 p{
+    margin: 10px 0 10px;
+  }
+} */
