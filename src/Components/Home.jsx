@@ -37,7 +37,7 @@ function Home({ mysignup, setSignUp }) {
 
       <div className="flex flex-col items-center justify-center mt-4 lg:w-[50%]">
         <img
-          className="w-[70%] h-[27rem] rounded-md sm:w-[50%] sm:h-[36rem] md:w-[43%] md:h-[36rem] mb-3 lg:w-[65%] lg:h-[32rem] xl:w-[55%] 2xl:w-[50%] 2xl:h-[34rem]"
+          className="w-[70%] h-[25rem] rounded-md sm:w-[50%] sm:h-[36rem] md:w-[43%] md:h-[36rem] mb-3 lg:w-[65%] lg:h-[32rem] xl:w-[55%] 2xl:w-[50%] 2xl:h-[34rem]"
           src={fast}
           alt=""
         />
